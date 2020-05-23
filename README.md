@@ -50,3 +50,19 @@ public static void Main(){
 ### Imagenes
 
 ![Tigre!](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+
+## Formula (KaTeX)
+sample1
+$$ f(x) = sin(x) + 19$$
+
+sample2
+$$\int_{-\infty}^\infty e^{-x^2} = \sqrt{\pi}$$
+
+sample 3
+$$ u(x) =
+\begin{cases}
+  \exp{x} & \text{if} x \geq 0 \\
+    1       & \text{if} x < 0
+   \end{cases}  
+  $$
