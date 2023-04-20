@@ -8,7 +8,7 @@ este es un primer cambio, parte de una introducción a GitHub
 Hello-World es mi primer Repositorio
 
 
-Este es un documento de ejemplos de tipos de contenido en Markup (.md)
+Este es un documento de ejemplos de tipos de contenido en Markdown (.md)
 
 ##Texto
 
